@@ -94,7 +94,7 @@ html {
 
 /* Header */
 .header {
-    background-image: url(/image/slider-02.jpg);
+    background-image: url(../image/slider-02.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
