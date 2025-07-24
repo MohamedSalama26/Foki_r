@@ -25,10 +25,10 @@ This project is a **general-purpose UI design practice** — a fully responsive 
 
 ## 🧰 Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **Font Awesome** (for icons)
-- **Web Fonts** (for typography)
+- HTML
+- CSS
+- Font Awesome** (for icons)
+- Web Fonts (for typography)
 
 ---
 
